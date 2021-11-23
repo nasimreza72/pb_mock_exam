@@ -1,0 +1,14 @@
+{
+  "name": "pb_mocktest",
+  "version": "1.0.0",
+  "description": "Mock test for Programming Basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
